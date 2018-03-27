@@ -1,4 +1,5 @@
 Titre de l'issue : [Smart-contracts under attack] Paul Marty + Paul Marty
+
 Language of the talk: 
 - [X] 🇫🇷
 - [ ] 🇬🇧
