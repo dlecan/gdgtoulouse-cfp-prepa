@@ -1,4 +1,7 @@
 Titre de l'issue : [Smart-contracts under attack] Paul Marty + Damien Lecan
+
+
+
 Language of the talk: 
 - [X] 🇫🇷
 - [ ] 🇬🇧
