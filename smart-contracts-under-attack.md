@@ -40,9 +40,9 @@ La plupart ont des vidéos.
 ---
 
 ## Description of your talk (200 characters at least)
-Les smart contracts automatisent des tâches autrefois réservées à des tiers de confiance. Ces petits programmes décentralisés peuvent gèrer l'équivalent de millions de dollars. Régulièrement, de bugs y cause la perte ou le vol d'importantes sommes d'argent :-(
+Les smart contracts automatisent des tâches autrefois réservées à des tiers de confiance. Ces petits programmes décentralisés peuvent gèrer l'équivalent de millions de dollars et des bugs y causent régulièrement la perte ou le vol d'importantes sommes d'argent :-(
 
-Dans cette présentation, vous verrez un exemple d'implémentation "naïve" de smart contract, des exemples d’attaques et des recommandations d’architecture et de sécurité.
+Dans cette présentation, vous verrez un exemple d'implémentation "naïve" de *smart contract*, des exemples d’attaques et des recommandations d’architecture et de sécurité.
 Contenu de la présentation:
 
 - Introduction
