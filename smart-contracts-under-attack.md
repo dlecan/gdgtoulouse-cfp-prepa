@@ -26,14 +26,14 @@ La plupart ont des vidéos.
 ## About you - Speaker #2
 
 * Name: Paul Marty
-* Link to profile picture (best quality you have): 
-* Job title: 
-* Company: 
-* Twitter handle: 
+* Link to profile picture (best quality you have): https://www.linkedin.com/in/paul-marty/
+* Job title: Security Consultant
+* Company: Orange Cyberdefense
+* Twitter handle: polo46
 * Experience as a speaker:
-    - [ ] beginner
+    - [x] beginner
     - [ ] advanced
-    - [] expert
+    - [ ] expert
 * Links to your previous events, videos etc. : 
 
 
